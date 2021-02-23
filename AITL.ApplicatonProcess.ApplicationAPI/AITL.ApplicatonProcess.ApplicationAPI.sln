@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITL.ApplicatonProcess.ApplicationAPI", "AITL.ApplicatonProcess.ApplicationAPI\AITL.ApplicatonProcess.ApplicationAPI.csproj", "{8634E11B-01CD-4EF4-B7E8-F49BE8F5981C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8634E11B-01CD-4EF4-B7E8-F49BE8F5981C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8634E11B-01CD-4EF4-B7E8-F49BE8F5981C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8634E11B-01CD-4EF4-B7E8-F49BE8F5981C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8634E11B-01CD-4EF4-B7E8-F49BE8F5981C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956BBA02-70BE-4C78-AE37-2B250958CADC}
+	EndGlobalSection
+EndGlobal
